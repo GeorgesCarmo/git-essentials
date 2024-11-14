@@ -1,0 +1,1 @@
+Esse é o novo documento da branch feat-new-doc
