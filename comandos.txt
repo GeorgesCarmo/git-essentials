@@ -8,3 +8,6 @@ COMANDOS BÁSICOS DE GIT
  git checkout -b mensagem - cria uma nova branch local e muda para essa branch
  git commit -m "alterando a descricao do hello" - faz um commit
  git checkout master - muda de branch
+ git remote add origin https://github.com/GeorgesCarmo/git-essentials.git - adiciona um repositório remoto
+ git branch -M main - muda para a branch main
+ git push -u origin main - faz um push da branch atual do repositório local para o repositório remoto
