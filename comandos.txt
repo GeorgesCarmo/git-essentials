@@ -1,0 +1,10 @@
+COMANDOS BÁSICOS DE GIT
+
+ git --version - mostra a versão
+ git init - inicia um novo repositório local
+ git status - mostra os arquivos que não estão comitados
+ git add hello.txt - adiciona o arquivo na área de staged
+ git branch - mostra todas as branchs do repositório
+ git checkout -b mensagem - cria uma nova branch local e muda para essa branch
+ git commit -m "alterando a descricao do hello" - faz um commit
+ git checkout master - muda de branch
