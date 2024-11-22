@@ -16,3 +16,4 @@ COMANDOS BÁSICOS DE GIT
  git merge comandos - vai fazer um merge da branch atual com a branch comandos
  git log - mostra os commits da branch atual
  git branch - D master - deleta a branch master
+ teste para git revert HEAD
