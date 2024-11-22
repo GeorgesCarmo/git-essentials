@@ -6,6 +6,7 @@ COMANDOS BÁSICOS DE GIT
  git add hello.txt - adiciona o arquivo na área de staged
  git branch - mostra todas as branchs do repositório
  git checkout -b mensagem - cria uma nova branch local e muda para essa branch
+ git checkout . - desfaz todas as mudanças
  git commit -m "alterando a descricao do hello" - faz um commit
  git checkout master - muda de branch
  git remote add origin https://github.com/GeorgesCarmo/git-essentials.git - adiciona um repositório remoto
