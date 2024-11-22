@@ -1,3 +1,5 @@
 Esse é o novo documento da branch feat-new-doc
 
 Essa é uma atualização no doc
+
+mais uma alteração no arquivo doc
