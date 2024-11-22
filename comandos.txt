@@ -13,3 +13,4 @@ COMANDOS BÁSICOS DE GIT
  git branch -M main - muda para a branch main
  git push -u origin main - faz um push da branch atual do repositório local para o repositório remoto
  git push origin novaBranch - cria uma nova branch remota com as mesmas informações da branch local
+ git config pull.rebase false - configuração de merge
