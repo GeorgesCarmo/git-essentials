@@ -17,3 +17,4 @@ COMANDOS BÁSICOS DE GIT
  git log - mostra os commits da branch atual
  git branch - D master - deleta a branch master
  git revert HEAD - reverte o ultimo commit
+ git reset --hard HEAD~1 - deleta o ultimo commit da linha do tempo de log
