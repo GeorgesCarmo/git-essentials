@@ -18,3 +18,5 @@ COMANDOS BÁSICOS DE GIT
  git branch - D master - deleta a branch master
  git revert HEAD - reverte o ultimo commit
  git reset --hard HEAD~1 - deleta o ultimo commit da linha do tempo de log
+ git stash - coloca as modificações feitas após o ultimo commit em uma área temporária
+ git stash apply - recupera as modificações feitas
