@@ -14,3 +14,4 @@ COMANDOS BÁSICOS DE GIT
  git push -u origin main - faz um push da branch atual do repositório local para o repositório remoto
  git push origin novaBranch - cria uma nova branch remota com as mesmas informações da branch local
  git merge comandos - vai fazer um merge da branch atual com a branch comandos
+ git log - mostra os commits da branch atual
